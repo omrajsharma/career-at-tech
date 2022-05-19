@@ -5,12 +5,9 @@
 <br>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c48fe331-b40b-4b03-a719-b2301b83e367/deploy-status)](https://app.netlify.com/sites/careerattech/deploys)
-### Checout our website [HERE](https://careerattech.netlify.app/)
-
-<br>
+### Checkout our website [HERE](https://careerattech.netlify.app/)
 
 ## Join our community
-<hr>
 <a href="https://t.me/careerattech">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
 </a> &ensp;
