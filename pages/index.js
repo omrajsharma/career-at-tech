@@ -2,12 +2,17 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
+// importing firebase and initializing 
+import firebase from '../firebase/clientApp'
+import ReadDataFromCloudFirestore from "../firebase/internData"
+firebase();
 export default function Home() {
   return (
     <div className={styles.container}>
       <h1 align="center" className='text-blue-500 text-4xl'>
         Career At Tech
       </h1>
+      <ReadDataFromCloudFirestore/> 
       <p align="center">Coming Soon</p>
       {/* <Head>
         <title>Create Next App</title>
